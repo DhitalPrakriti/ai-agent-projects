@@ -1,0 +1,19 @@
+# Google ADK & AI Dependencies
+google-adk
+google-generativeai
+
+# Web Deployment (for future projects)
+flask
+flask-cors
+
+# Environment Variables
+python-dotenv
+
+# Kaggle Environment (since you built it there)
+kaggle-secrets
+
+# HTTP Requests (for tools & APIs)
+requests
+
+# Utilities
+python-dateutil
