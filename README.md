@@ -16,9 +16,13 @@ A collection of AI agent projects built with Google's Agent Development Kit (ADK
 - **Dynamic Routing**: LLM-powered agent management
 
 ### 3. Tools & MCP (In Progress)
-- Custom tool development
-- Model Context Protocol (MCP) integration
-- Long-running operations
+- **Custom Tools**: Currency converter, payment calculators
+- **MCP Integration**: External service connection patterns  
+- **Long-Running Operations**: Human approval workflows
+- **Production Patterns**: Resumable workflows, tool context management
+
+### 4. Advanced Patterns (Coming Soon)
+### 5. Deployment (Coming Soon)
 
 ## 🛠️ Tech Stack
 - Google Agent Development Kit (ADK)
