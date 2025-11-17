@@ -37,14 +37,41 @@ A collection of AI agent projects built with Google's Agent Development Kit (ADK
 - **Proactive vs Reactive**: Preload vs on-demand memory retrieval
 - **Enterprise Integration**: Vertex AI Memory Bank patterns  
 
-### 5. Advanced Patterns (Coming Soon)
-### 6.. Deployment (Coming Soon)
+### 5. Agent Quality & Evaluation ✅ NEW!
+
+#### Observability & Debugging
+- **Logging Systems**: Comprehensive agent activity tracking
+- **Trace Analysis**: Visual debugging of agent decision paths
+- **Plugin Architecture**: Extensible monitoring with LoggingPlugin
+- **Production Monitoring**: Real-time agent performance insights
+
+#### Systematic Evaluation Framework
+- **Test Case Development**: Interactive creation via ADK Web UI
+- **Evaluation Sets**: Grouped scenario testing (`*.evalset.json`)
+- **Automated Regression**: CLI evaluation pipelines (`adk eval`)
+- **Tool Trajectory Analysis**: Complete reasoning path evaluation
+- **LLM-as-a-Judge**: Scalable quality assessment
+- **Metrics & Analytics**: Data-driven agent improvement
+
+### 6. Deployment (Coming Soon)
 
 ## 🛠️ Tech Stack
 - Google Agent Development Kit (ADK)
 - Gemini AI Models
 - Python 3.11
 - Hugging Face Spaces (Deployment)
+
+### Technical Skills
+- Multi-agent orchestration & workflow design
+- Custom tool development & MCP integration  
+- Memory management & state persistence
+- Agent evaluation & quality assurance
+- Production deployment patterns
+
+### Professional Practices
+- Systematic testing & evaluation frameworks
+- Observability & debugging methodologies
+- Data-driven development & metrics tracking
 
 ## 📚 Learning Journey
 This repository documents my progression through Google's AI Agent development curriculum, from basic single agents to complex multi-agent systems.
